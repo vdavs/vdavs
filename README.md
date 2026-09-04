@@ -22,6 +22,6 @@ I'm David, currently studying math, so most of what I build connects to it in so
 
 <br>
 <p align="center">
-  <img src="gifs/line.gif" width="100%"/>
+  <img src="gifs/line.png" width="100%" height="4px"/>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sk3tchdavid&label=Profile%20views&color=800080&style=flat"/> </p>
